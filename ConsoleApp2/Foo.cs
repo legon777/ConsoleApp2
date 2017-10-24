@@ -8,5 +8,6 @@ namespace ConsoleApp2
 {
     public class Foo
     {
+        public int Id { get; set; }
     }
 }
